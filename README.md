@@ -42,5 +42,4 @@
 - [LinkedIn](https://www.linkedin.com/in/patrick-l%C3%A9on-gandonou-3729422aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [X](https://x.com/gkpl0010?t=THedPOHBJCKnFl1W5wR9gw&s=09)
 
-- ![TryHackMe Badge](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2851747" style='border:none;'></iframe>)
 
