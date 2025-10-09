@@ -6,7 +6,6 @@
 - 🌱 J’apprends actuellement : Flutter, DevOps/ DevSecOps, Windows/Linux Administration
 - 👯 Je cherche à collaborer sur : Développement d'outils en Pentesting, Outils intégrant l'IA et le Hacking Éthique
 - 💬 Demande-moi à propos de : Développement Mobile, Ethical Hacking et Intelligence Artificielle
-- 📫 Comment me contacter : email, LinkedIn, Twitter
 
 ## 🛠️ Compétences
 
@@ -35,12 +34,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
-- Active Directory
-- Metasploit
 
 ## 📈 Statistiques GitHub
 ![Tes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Patrickleondev&show_icons=true&theme=radical)
 
-## 🔗 Liens vers mes réseaux sociaux
+## 🔗 Mes réseaux sociaux
 - [LinkedIn](https://www.linkedin.com/in/patrick-l%C3%A9on-gandonou-3729422aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [X](https://x.com/gkpl0010?t=THedPOHBJCKnFl1W5wR9gw&s=09)
+
+- Profil THM
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2851747" style='border:none;'></iframe>
